@@ -21,7 +21,7 @@
 
 ### 📝 Diagrama UML
 
-![image](![image](https://user-images.githubusercontent.com/70236849/155547157-222a3dc1-ce7d-4b65-9613-8c767105c17c.png))
+![image](https://user-images.githubusercontent.com/70236849/155547157-222a3dc1-ce7d-4b65-9613-8c767105c17c.png)
 
 ### Restrições
 - somentes rotas de leitura de eventos e cidades são **públicas**;
