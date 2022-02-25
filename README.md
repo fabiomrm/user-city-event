@@ -44,8 +44,16 @@
     "name": "New City"
 }
 ```
-- [ ] GET /events
-- [ ] POST /events
+- [X] GET /events
+- [X] POST /events
+```json
+{
+    "name": "Novo evento",
+    "url": "https://novoevento.com.br",
+    "date": "2023-07-15",
+    "cityId": 1
+}
+```
 
 
 ### 🛠 Tecnologias
